@@ -1,0 +1,8 @@
+server:
+  port: 1012
+
+MD5Key: quyiyuandev
+
+qy:
+  log:
+    path: C:/logs
